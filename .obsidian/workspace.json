@@ -23,12 +23,8 @@
             "id": "300b571bb5159651",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quiz 3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -37,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPOT WIKI.md",
+                "file": "SPOT 6.22.23 Alex.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,14 +67,24 @@
             "id": "83edec503f514dd4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b78d42ed6f6f2756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "Untitled-2023-06-21-0812.png"
+                "file": "SPOT 6.22.23 Alex.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled-2023-06-21-0812.png",
+                "file": "SPOT 6.22.23 Alex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled-2023-06-21-0812.png",
+                "file": "SPOT 6.22.23 Alex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled-2023-06-21-0812.png"
+                "file": "SPOT 6.22.23 Alex.md"
               }
             }
           }
@@ -205,8 +211,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83edec503f514dd4",
+  "active": "57044f433bca0b9e",
   "lastOpenFiles": [
+    "Transport Multiplexing and Demultiplexing.md",
+    "SPOT 6.22.23 Alex.md",
+    "SPOT WIKI.md",
+    "The Request Response Cycle.md",
+    "TCP Characteristics.md",
     "Untitled-2023-06-21-0812.svg",
     "Untitled-2023-06-21-0812.png",
     "Untitled-2023-06-21-0812.svg.crswap",
@@ -214,12 +225,8 @@
     "Untitled-2023-06-21-0812.png.crswap",
     "Study Guide.md",
     "6.19.23 Cruz and Trisha.md",
-    "SPOT WIKI.md",
     "Quiz 3.md",
-    "The Request Response Cycle.md",
     "6.18.23 Matthew.md",
-    "TCP Characteristics.md",
-    "Transport Multiplexing and Demultiplexing.md",
     "UDP Characteristics.md",
     "Socket Basics.md",
     "Network Port Basics.md"
