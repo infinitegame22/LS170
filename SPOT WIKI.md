@@ -8,3 +8,13 @@ The Web operates on a client-server model, where users access web pages and reso
 The Web encompasses a wide range of content, including text, images, videos, audio, and interactive elements. It supports various technologies, such as HTML (Hypertext Markup Language) for structuring web pages, CSS (Cascading Style Sheets) for styling and layout, and JavaScript for interactivity.
 
 Through the Web, users can engage in activities like browsing websites, searching for information using search engines, accessing online services, shopping, social networking, and much more. It has become an integral part of everyday life for billions of people around the world, connecting individuals, businesses, organizations, and governments across the globe.
+
+What’s the difference between the Internet and the World Wide Web?
+
+The Internet and the World Wide Web (WWW) are related but distinct concepts:
+
+The Internet refers to the global network of interconnected computer networks, which allows devices worldwide to communicate and share information. It is a vast infrastructure that uses various networking protocols and technologies to enable data transfer between devices. The Internet includes both public and private networks and supports services such as email, file sharing, remote access, and more. It provides the underlying infrastructure for many applications and services, including the World Wide Web.
+
+The World Wide Web, on the other hand, is a system of interconnected documents and resources, accessed through the Internet. It is a collection of websites, webpages, multimedia content, and hyperlinks that allow users to navigate and access information or resources. The WWW relies on technologies such as HTML (Hypertext Markup Language), HTTP (Hypertext Transfer Protocol), and web browsers. It is just one of the many services available on the Internet.
+
+In summary, the Internet is the global network infrastructure, while the World Wide Web is a service built on top of the Internet that allows users to access and navigate websites and webpages.

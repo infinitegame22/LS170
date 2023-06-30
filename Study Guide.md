@@ -4,7 +4,7 @@ Have a broad understanding of what the internet is and how it works
 
 Understand the characteristics of the physical network, such as latency and bandwidth
 
-Have a basic understanding of how lower level protocols operate
+Have a basic understanding of how lower-level protocols operate
 
 Know what an IP address is and what a port number is
 

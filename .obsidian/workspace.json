@@ -20,20 +20,12 @@
             }
           },
           {
-            "id": "300b571bb5159651",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "57044f433bca0b9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPOT 6.22.23 Alex.md",
+                "file": "Transport Multiplexing and Demultiplexing.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,29 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "83edec503f514dd4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b78d42ed6f6f2756",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPOT 6.22.23 Alex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPOT 6.22.23 Alex.md",
+                "file": "Transport Multiplexing and Demultiplexing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPOT 6.22.23 Alex.md",
+                "file": "Transport Multiplexing and Demultiplexing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPOT 6.22.23 Alex.md"
+                "file": "Transport Multiplexing and Demultiplexing.md"
               }
             }
           }
@@ -213,9 +185,11 @@
   },
   "active": "57044f433bca0b9e",
   "lastOpenFiles": [
+    "SPOT WIKI.md",
+    "Study Guide.md",
+    "UDP Characteristics.md",
     "Transport Multiplexing and Demultiplexing.md",
     "SPOT 6.22.23 Alex.md",
-    "SPOT WIKI.md",
     "The Request Response Cycle.md",
     "TCP Characteristics.md",
     "Untitled-2023-06-21-0812.svg",
@@ -223,11 +197,9 @@
     "Untitled-2023-06-21-0812.svg.crswap",
     "6.21.23 JD.md",
     "Untitled-2023-06-21-0812.png.crswap",
-    "Study Guide.md",
     "6.19.23 Cruz and Trisha.md",
     "Quiz 3.md",
     "6.18.23 Matthew.md",
-    "UDP Characteristics.md",
     "Socket Basics.md",
     "Network Port Basics.md"
   ]
