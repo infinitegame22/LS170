@@ -73,3 +73,20 @@ Internet => IP packet
 Link/Data Link => Ethernet Frame => then sent via physical network
 
 To add some more context here, at a conceptual level, IP is end to end (i.e. it only cares about the two end points in the communication, such as the client and server, not particularly about how the packets are routed through the network). With Ethernet though, there's decapsulation and re-encapsulation at every point on the journey. So when a device such as a router receives a frame that has an IP packet as its payload, it decapsulates the packet, and re-encapsulates it it into a new frame for the next 'hop' on its journey. This level of detail is really a network engineering level concern though, so I wouldn't worry about it too much.
+
+|  OSI       |  TCP/IP    |
+|------------|------------|
+| Application| Application |
+| Presentation |        |
+| Session    |        |
+| Transport  | Transport|
+| Network    |  Internet |
+| Data Link  |  Link     |
+| Physical   |           |
+|------------|-----------|
+
+|Physical Layer Bits| 
+| Electrical        |
+| Light             |
+| Radio |
+
