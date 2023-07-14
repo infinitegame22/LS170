@@ -83,10 +83,15 @@ To add some more context here, at a conceptual level, IP is end to end (i.e. it 
 | Network    |  Internet |
 | Data Link  |  Link     |
 | Physical   |           |
-|------------|-----------|
 
 |Physical Layer Bits| 
 | Electrical        |
 | Light             |
 | Radio |
 
+
+| **Client Start State** | **Client Action** | **Client End State**| **Server Start State** | **Server Action** | **Server End State** |
+|----|----|----|----|----|----|
+| `CLOSED` | Sends a `SYN` segment | `SYN-SENT` | `LISTEN` | Waits for a connection request | - |
+|----|----|----|----|----|----|
+| 

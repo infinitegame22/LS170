@@ -23,12 +23,8 @@
             "id": "57044f433bca0b9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transport Multiplexing and Demultiplexing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -106,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fadcce11b11cd900",
@@ -122,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transport Multiplexing and Demultiplexing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transport Multiplexing and Demultiplexing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Transport Multiplexing and Demultiplexing.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,10 +178,11 @@
   },
   "active": "57044f433bca0b9e",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Transport Multiplexing and Demultiplexing.md",
     "SPOT WIKI.md",
     "Study Guide.md",
     "UDP Characteristics.md",
-    "Transport Multiplexing and Demultiplexing.md",
     "SPOT 6.22.23 Alex.md",
     "The Request Response Cycle.md",
     "TCP Characteristics.md",
